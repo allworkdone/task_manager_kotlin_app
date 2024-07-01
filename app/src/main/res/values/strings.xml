@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task Manager</string>
+    <string name="heading">All Task completed</string>
+    <string name="content">Nice Work!</string>
 </resources>
